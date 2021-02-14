@@ -79,18 +79,18 @@ start and select buttons. */
 .custom .button.pressed{
     opacity: 1;
 }
-.custom .a{
+.custom .b{
     top: 155px;
     left: 100px;
 }
-.custom .b{
+.custom .a{
     top: 78px;
     right: 0px;
 }
-.custom .x{
+.custom .y{
     top: 78px;
 }
-.custom .y{
+.custom .x{
     left: 100px;
 }
 /* Dpad possitioning and sizing */
